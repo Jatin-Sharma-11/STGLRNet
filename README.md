@@ -6,6 +6,5 @@ This repository contains the official implementation of my Master's thesis work 
 ---
 
 ## 🎥 Demo Video
-
-[[![ASGL-DERF Demo](thumbnail.png)](vid.mp4)](https://github.com/user-attachments/assets/b82bd554-b82d-4035-9623-94d566520833)
+https://github.com/user-attachments/assets/b82bd554-b82d-4035-9623-94d566520833
 
