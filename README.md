@@ -1,7 +1,7 @@
-# ASGL-DERF
+# STGLRNet
 
 This repository contains the official implementation of my Master's thesis work on  
-**Adaptive Spatio-Temporal Graph Learning with Dynamic Expanded Receptive Fields (ASGL-DERF)**.
+**Adaptive Spatio-Temporal Graph Learning with Dynamic Expanded Receptive Fields (STGLRNet)**.
 
 ---
 
