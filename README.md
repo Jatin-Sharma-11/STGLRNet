@@ -17,6 +17,3 @@ Built on the **BasicTS** framework using 5-minute interval datasets and Adam opt
 
 ---
 
-## 🎥 Demo Video
-https://github.com/user-attachments/assets/b82bd554-b82d-4035-9623-94d566520833
-
